@@ -1,4 +1,4 @@
-<build><br/>
+<![CDATA[<build><br/>
 		<plugins><br/>
 			<plugin><br/>
 				<groupId>org.apache.maven.plugins</groupId><br/>
@@ -22,4 +22,4 @@
 				</executions><br/>
 			</plugin><br/>
 		</plugins><br/>
-	</build>
+	</build>]]>
